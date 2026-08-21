@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="InsideMan" width="240">
+  <img src="assets/logo.jpg" alt="InsideMan" width="240">
 </p>
 
 # InsideMan
@@ -103,7 +103,7 @@ InsideMan/
   CONTRIBUTING.md
   glossary.md
   assets/
-    logo.png
+    logo.jpg
   docs/
     01-overview.md
     02-identity.md
