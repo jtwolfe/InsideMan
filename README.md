@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="InsideMan" width="240">
+</p>
+
 # InsideMan
 
 Architecture specification for a Grok Bot-class multi-agent desktop product.
@@ -98,6 +102,8 @@ InsideMan/
   LICENSE
   CONTRIBUTING.md
   glossary.md
+  assets/
+    logo.png
   docs/
     01-overview.md
     02-identity.md
